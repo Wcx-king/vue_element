@@ -34,7 +34,7 @@
         <el-input placeholder="请输入备注" />
       </el-form-item>
       <el-form-item>
-        <el-checkbox v-model="checked">生效</el-checkbox>
+        <el-checkbox v-model="checked" checked="true">生效</el-checkbox>
       </el-form-item>
     </el-form>
 
